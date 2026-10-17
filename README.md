@@ -80,8 +80,8 @@ and public ATS job boards · Gemini through an agent gateway · Docker · a Post
 | | |
 |---|---|
 | Enterprise tests | **231** passing, offline, with no network or keys (measured 2026-10-07) |
-| Local screen self-test | **48** checks passing, both sides of every boundary pinned |
-| Evidence caps | **5** tiers, **2** of them below the FIT gate by design |
+| Local screen self-test | **All** checks passing, both sides of every boundary pinned |
+| Evidence caps | Tiered, with the weakest tiers below the FIT gate by design |
 
 ## Status
 
